@@ -1,2 +1,2 @@
-# responsive-admin-dashboard-assets
-A simple admin dashboard
+# netflix-assets
+A simple Netflix
